@@ -1,0 +1,21 @@
+body{
+    background:url(https://cdn-1.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg)
+    no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+}
+
+.Fmain{
+    color: black;
+    font-size: 28px;
+    text-align: center;
+}
