@@ -39,10 +39,15 @@ h1{
     margin: 0.5% 0.5% 0% 0.5%;  
 }
 
-#oldf{
-    width: 400px;
+.contacts{
+    text-align: center;
+    font-size: 50px;
 }
 
-#oldestf{
-    text-align:center ;
+.Git{
+width: 100px;
+}
+
+.Github{
+    text-align: center;
 }
