@@ -54,7 +54,7 @@ width: 100px;
 }
 
 .Panel{
-    background-color: blue;
+    background-color: #e10600;
     height: 90px;
     margin-top: -30px;
 }
@@ -78,14 +78,29 @@ width: 100px;
     font-size: 25px;
 }
 
-#EstablisherId{
-    color: black;
+#EstablisherId:hover {
+    background-color: black;
+}
+
+#EstablisherId {
+    color: white;
+    text-transform: uppercase;
 }
 
 #HistoryPanelId{
-    color: black;
+    color: white;
+    text-transform: uppercase;
+}
+
+#HistoryPanelId:hover{
+    background-color: black;
 }
 
 #DriversPanelId{
-    color: black;
+    color: white;
+    text-transform: uppercase;
+}
+
+#DriversPanelId:hover{
+    background-color: black;
 }
