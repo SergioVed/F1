@@ -5,6 +5,7 @@ body{
     background-size: cover;
     height: 100vh;
     margin: 0;
+    background-color: white;
 }
 
 h1{
@@ -50,4 +51,41 @@ width: 100px;
 
 .Github{
     text-align: center;
+}
+
+.Panel{
+    background-color: blue;
+    height: 90px;
+    margin-top: -30px;
+}
+
+#HistoryPanel{
+    padding-left: 20px;
+    padding-top: 30px;
+    font-size: 25px;
+}
+
+#EstablisherPanel{
+    text-align: center;
+    margin-top: -47px;
+    font-size: 25px;
+}
+
+#DriversPanel{
+    text-align: right;
+    margin-top: -55px;
+    padding-right: 25px;
+    font-size: 25px;
+}
+
+#EstablisherId{
+    color: black;
+}
+
+#HistoryPanelId{
+    color: black;
+}
+
+#DriversPanelId{
+    color: black;
 }
