@@ -4,3 +4,51 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 50px;
 }
+
+.Back{
+    height: 60px;
+    float: left;
+    margin: 0.5% 0.5% 0% 0.5%;
+}
+
+#BackM{
+    height: 80px;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+}
+
+.main{
+    color: black;
+    font-size: 27px;
+    text-align: left;
+}
+
+.Berni{
+    float: left;
+    margin: 0.5% 0.5% 0% 0.5%;
+    height: 180px;
+}
+
+.Biography{
+    text-align: center;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: -10px;
+}
+
+.BiographyP{
+    color: black;
+    font-size: 27px;
+    text-align: left;
+}
+
+.EclstoneImg{
+    float: left;
+    margin: 0.5% 0.5% 0% 0.5%;
+    height: 170px;
+}

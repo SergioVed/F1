@@ -56,51 +56,22 @@ width: 100px;
 .Panel{
     background-color: #e10600;
     height: 90px;
-    margin-top: -30px;
+    margin-top: -20px;
 }
 
 #HistoryPanel{
-    padding-left: 20px;
-    padding-top: 30px;
+    padding-left: 25px;
+    padding-top: 40px;
     font-size: 25px;
 }
 
 #EstablisherPanel{
     text-align: center;
-    margin-top: -47px;
+    margin-top: -30px;
     font-size: 25px;
 }
 
-#DriversPanel{
-    text-align: right;
-    margin-top: -55px;
-    padding-right: 25px;
-    font-size: 25px;
-}
-
-#EstablisherId:hover {
-    background-color: black;
-}
-
-#EstablisherId {
+.PanelId {
     color: white;
     text-transform: uppercase;
-}
-
-#HistoryPanelId{
-    color: white;
-    text-transform: uppercase;
-}
-
-#HistoryPanelId:hover{
-    background-color: black;
-}
-
-#DriversPanelId{
-    color: white;
-    text-transform: uppercase;
-}
-
-#DriversPanelId:hover{
-    background-color: black;
 }

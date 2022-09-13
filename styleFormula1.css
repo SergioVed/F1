@@ -20,11 +20,12 @@ h1{
     text-align: center;
 }
 
-.Est{
-    text-align: center;
-    font-size: 30px;
+.Back{
+    height: 60px;
+    float: left;
+    margin: 0.5% 0.5% 0% 0.5%;
 }
 
-#Est{
-    color: red;
+#BackM{
+    height: 80px;
 }
