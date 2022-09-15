@@ -59,19 +59,28 @@ width: 100px;
     margin-top: -20px;
 }
 
-#HistoryPanel{
-    padding-left: 25px;
-    padding-top: 40px;
-    font-size: 25px;
+.HistoryPanel{
+    text-align: right;
+    padding-top: 35px;
+    padding-right: 20px;
+    font-size: 30px;
 }
 
-#EstablisherPanel{
-    text-align: center;
-    margin-top: -30px;
-    font-size: 25px;
+.EstablisherPanel{
+    text-align: left;
+    margin-top: -35px;
+    padding-left: 20px;
+    font-size: 30px;
 }
 
-.PanelId {
+#AHistory{
+color: white;
+}
+
+#EHistory{
     color: white;
-    text-transform: uppercase;
+}
+
+.telegram{
+    width: 100px;
 }
